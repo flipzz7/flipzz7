@@ -10,10 +10,13 @@
 
 ### Skills
 
-<img align="left" alt="Luau" title="Luau" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Luau" title="Luau" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=lua" />
+<img align="left" alt="Roblox Studio" title="Roblox Studio" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=robloxstudio" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github" />
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css" />
 
 <br/>
 <br/>
