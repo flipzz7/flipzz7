@@ -18,12 +18,13 @@
 
 ### Technologies
 
-![ProfileService]
-![ECS]
-![OOP]
-![Parallel Luau]
-![Actors]
-![Buffer]
+![ProfileService](https://img.shields.io/badge/ProfileService-0D1117?style=flat-square)
+![ECS](https://img.shields.io/badge/ECS-0D1117?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0D1117?style=flat-square)
+![Parallel Luau](https://img.shields.io/badge/Parallel%20Luau-0D1117?style=flat-square)
+![Actors](https://img.shields.io/badge/Actors-0D1117?style=flat-square)
+![Buffer](https://img.shields.io/badge/Buffer-0D1117?style=flat-square)
+![Event Bus](https://img.shields.io/badge/Event%20Bus-0D1117?style=flat-square)
 
 ### Links
 
