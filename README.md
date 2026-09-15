@@ -34,7 +34,3 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)
-
-### Links
-
-[GitHub](https://github.com/flipzz7) · [LinkedIn](https://www.linkedin.com/in/yourusername/)
