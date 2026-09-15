@@ -4,6 +4,10 @@
 
 6+ years of experience developing games on Roblox, with a focus on programming logic, gameplay systems, architecture and performance.
 
+</div>
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+</div>
+
 ### Skills
 
 ![Luau](https://img.shields.io/badge/Luau-0D1117?style=flat-square\&logo=lua\&logoColor=white)
