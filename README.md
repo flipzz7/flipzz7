@@ -14,6 +14,7 @@
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
 <br/>
 <br/>
 
@@ -30,33 +31,9 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=flipzz7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipzz7&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff"
-  />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)
 
-### Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/flipzz7/flipzz7/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/flipzz7/flipzz7/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/flipzz7/flipzz7/output/github-contribution-grid-snake.svg"
-  >
-</picture>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)
 
 ### Links
 
