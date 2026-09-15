@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm [Seu Nome] 👋
 
-<!--
-**flipzz7/flipzz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Roblox Game Developer & Luau Programmer**
 
-Here are some ideas to get you started:
+I've been developing games on Roblox for around **6 years**, with a strong focus on **programming logic, game systems, architecture and performance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+
+* Strong programming and problem-solving skills
+* Gameplay and game systems development
+* Object-Oriented Programming (OOP)
+* Entity Component System (ECS)
+* Event-driven architecture / Event Bus
+* Client-Server architecture
+* Data persistence with ProfileService
+* Buffer and optimized data handling
+* Parallel Luau & Actors
+* Performance optimization
+
+### 🛠️ Technologies
+
+`Luau` `Lua` `Roblox Studio` `ProfileService` `ECS` `OOP` `Buffer` `Parallel Luau` `Actors` `Git` `Rojo`
+
+### 🎮 About Me
+
+I'm interested in building **clean, scalable and performant systems**, and I enjoy solving complex programming problems and creating robust game architectures.
