@@ -1,4 +1,4 @@
-# [flipx_x]
+# flipx_x
 
 **Roblox Game Developer · Luau Programmer**
 
@@ -18,31 +18,13 @@
 
 ### Technologies
 
-![ProfileService](https://img.shields.io/badge/ProfileService-0D1117?style=flat-square)
-![ECS](https://img.shields.io/badge/ECS-0D1117?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-0D1117?style=flat-square)
-![Parallel Luau](https://img.shields.io/badge/Parallel%20Luau-0D1117?style=flat-square)
-![Actors](https://img.shields.io/badge/Actors-0D1117?style=flat-square)
-![Buffer](https://img.shields.io/badge/Buffer-0D1117?style=flat-square)
+![ProfileService]
+![ECS]
+![OOP]
+![Parallel Luau]
+![Actors]
+![Buffer]
 
 ### Links
 
 [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
-
-<p align="center">
-    <a href="https://github.com/tauz-hub/tauz-hub.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tauz-hub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=tauz-hub&layout=compact&langs_count=8&theme=dark&hide=javascript" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-
-<br/>
-<br/>
