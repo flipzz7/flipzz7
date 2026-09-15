@@ -1,26 +1,27 @@
-# Hi, I'm [Seu Nome] 👋
+# [flipx_x]
 
-🎮 **Roblox Game Developer & Luau Programmer**
+**Roblox Game Developer · Luau Programmer**
 
-I've been developing games on Roblox for around **6 years**, with a strong focus on **programming logic, game systems, architecture and performance**.
+6+ years of experience developing games on Roblox, with a focus on programming logic, gameplay systems, architecture and performance.
 
-### 🧠 Skills
+### Skills
 
-* Strong programming and problem-solving skills
-* Gameplay and game systems development
-* Object-Oriented Programming (OOP)
-* Entity Component System (ECS)
-* Event-driven architecture / Event Bus
-* Client-Server architecture
-* Data persistence with ProfileService
-* Buffer and optimized data handling
-* Parallel Luau & Actors
-* Performance optimization
+![Luau](https://img.shields.io/badge/Luau-0D1117?style=flat-square\&logo=lua\&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-0D1117?style=flat-square\&logo=roblox\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
-### 🛠️ Technologies
+### Technologies
 
-`Luau` `Lua` `Roblox Studio` `ProfileService` `ECS` `OOP` `Buffer` `Parallel Luau` `Actors` `Git` `Rojo`
+![ProfileService](https://img.shields.io/badge/ProfileService-0D1117?style=flat-square)
+![ECS](https://img.shields.io/badge/ECS-0D1117?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0D1117?style=flat-square)
+![Parallel Luau](https://img.shields.io/badge/Parallel%20Luau-0D1117?style=flat-square)
+![Actors](https://img.shields.io/badge/Actors-0D1117?style=flat-square)
+![Buffer](https://img.shields.io/badge/Buffer-0D1117?style=flat-square)
+![Event Bus](https://img.shields.io/badge/Event%20Bus-0D1117?style=flat-square)
 
-### 🎮 About Me
+### Links
 
-I'm interested in building **clean, scalable and performant systems**, and I enjoy solving complex programming problems and creating robust game architectures.
+[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
