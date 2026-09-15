@@ -34,3 +34,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=flipzz7&rank_icon=github&include_all_commits=true&theme=synthwave)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=flipzz7&langs_count=4&theme=synthwave)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flipzz7/flipzz7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flipzz7/flipzz7/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
