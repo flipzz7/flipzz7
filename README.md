@@ -26,6 +26,8 @@
 <img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=python" />
+<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=kali" />
 
 <br/>
 <br/>
