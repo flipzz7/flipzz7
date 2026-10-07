@@ -34,7 +34,7 @@
 
 ### Technologies
 
-<big>`Parallel Luau`</big> ⋆ <big>`Buffer`</big> ⋆ <big>`ECS`</big> ⋆ <big>`OOP`</big> ⋆ <big>`ProfileService`</big> ⋆ <big>`Jecs`</big> ⋆ <big>`Flamework`</big> ⋆ <big>`Rojo`</big> ⋆ <big>`Knit`</big> ⋆ <big>`Fusion`</big>
+<big>`Parallel Luau`</big> ⋆ <big>`Buffer`</big> ⋆ <big>`ECS`</big> ⋆ <big>`OOP`</big> ⋆ <big>`ProfileService`</big> ⋆ <big>`Rojo`</big> ⋆ <big>`Knit`</big> ⋆ <big>`Fusion`</big>
 
 ### GitHub Stats
 
